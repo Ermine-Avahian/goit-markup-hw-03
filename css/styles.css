@@ -259,8 +259,8 @@ img {
 }
 .portfolio-item-text {
   padding: 32px 16px;
-  border: 1px solid#e7e9fe;
   border-top: none;
+  border: 1px solid #e7e9fc;
 }
 .portfolio-title {
   font-weight: 700;
@@ -307,7 +307,6 @@ img {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 100px;
-  display: inline-block;
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
@@ -319,6 +318,7 @@ img {
   color: #4d5ae5;
   display: flex;
   margin-bottom: 16px;
+  display: inline-block;
 }
 .footer-logo-studio {
   color: #f4f4fd;
